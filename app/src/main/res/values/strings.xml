@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+    <string name="hello_maria">Olá, Maria</string>
+    <string name="txt_main_text_products">Produtos</string>
+    <string name="error">Ocorreu um erro. Tente novamente.</string>
+    <string name="logo">Logo</string>
+    <string name="digio_cash">digio Cache</string>
+    <string name="digio_cash_highlight">Cache</string>
+    <string name="digio_cash_banner">Digio Cash banner</string>
+
+    <string name="error_request_timeout">A requisição expirou. Tente novamente mais tarde.</string>
+    <string name="error_no_internet">Sem conexão com a internet. Verifique sua conexão.</string>
+    <string name="error_unknown_remote">Erro desconhecido na comunicação com o servidor.</string>
+    <string name="error_unknown_local">Ocorreu um erro desconhecido ao tentar salvar os dados.</string>
+</resources>
